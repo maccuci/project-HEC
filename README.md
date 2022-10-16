@@ -9,12 +9,16 @@
  <a href="#methods">Métodos</a>
 </p>
 
-## O que é a sigla HEC?
+
+<div id="pt-br">
+<h1>🇧🇷</h1>
+<h2>O que é a sigla HEC?</h2>
 <div id="#hec">
 O significado final da sigla HEC é History Environment Creation, mas afinal, para que ou como você vai utilizar o HEC?
 <br><br>
 O Project HEC tem como objetivo <b>otimizar</b> o ambiente onde a história do jogo se passa, sendo o mapa, os personagens e até mesmo as missões secundárias.</br>
 Como ele irá influenciar <b>diretamente</b> na gameplay do usuário, elementos como os sentimentos que o ambiente irá transmitir na história e como transmiti-las para o mesmo. Para isto o resposável pela criação da trama e ambientação do jogo, irá poder escolher em utilizar o método do Project HEC para aprimorar a expirência do usuário dentro do jogo.
+<br>
 <br>
 </div>
 
@@ -59,9 +63,13 @@ Esse é o terceiro e último método a ser utilizado em sua obra. Primeiro vamos
 </li>
 </ol>
 </div>
+</div>
 
-# Project HEC | EN-US 🇺🇸
+<div id="en-us">
+    <h1>🇺🇸</h1>
 
 ## What is the acronym HEC?
 
 ## But, why use HEC?
+</div>
+
