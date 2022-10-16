@@ -13,3 +13,9 @@ Para isto o resposável pela criação da trama e ambientação do jogo, irá po
 ## Mas afinal, por que utilizar o HEC?
 
 ## Features
+
+🇺🇸
+
+## What is the acronym HEC?
+
+## But, why use HEC?
