@@ -51,7 +51,8 @@ Segue abaixo a lista dos metódos dos quais devem ser seguidos para a levar a pr
 <ol>
 <li>
     Método H<br/>
-    Esse é o primeiro método a ser utilizado em sua obra. Primeiro vamos utilizar a História da sua obra.
+    Esse é o primeiro método a ser utilizado em sua obra. Primeiro vamos utilizar a História como principal fator.
+    Pense que o conteúdo principal da história, irá influenciar nos outros aspectos da sua obra. Com isso.
 </li>
 <li>
 Método E<br/>
