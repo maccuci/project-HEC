@@ -1,8 +1,6 @@
 # Project HEC
 
-```
 🇧🇷
-```
 
 ## O que é a sigla HEC?
 A sigla HEC é abreviação para History Environment Creation, mas afinal, para que o HEC pode ou
