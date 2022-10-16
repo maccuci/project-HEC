@@ -24,7 +24,7 @@ Como ele irá influenciar <b>diretamente</b> na gameplay do usuário, elementos 
 Bom, a utilização do método HEC em seus futuros projetos, poderá te auxiliar na parte criativa, como: Enredo, Ambientação e História principal. Você pode utilizar o HEC
 para as missões secundárias ou acontecimento ao redor do ambiente. Por exemplo criando correlações dos objetos em cena, com acontecimentos <b>presentes</b> e/ou <b>futuros</b> do jogo.
 
-Para um melhor aproveitamento do HEC, utilize sempre as tecnologia que você se sente mais confortável em desenvolver o seu jogo.
+Para um melhor aproveitamento do HEC, utilize sempre as tecnologias que você se sente mais confortável em desenvolver o seu jogo.
 <br>
 </div>
 
