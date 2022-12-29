@@ -56,7 +56,7 @@ Segue abaixo a lista dos metódos dos quais devem ser seguidos para a levar a pr
 </li>
 <li>
 Método E<br/>
-Esse é o segundo método a ser utilizado em sua obra. Primeiro vamos utilizar o Ambiente da sua obra. Para utilizar o método do ambiente, você precisar se atentar que o ambiente como um todo, tem que prender a atenção do jogador, mas não ao todo o tempo. Também é importante lembrar o Efeito Repetição, mas o que seria isso? Esse efeito recebe esse nome pelo simples fato, que em todo jogo, alguma coisa sempre vai repetir, mesmo sendo ela uma coisa boa ou uma coisa ruim. Então é importante que você saiba utilizar esse efeito com maestria, para que os elementos não acabem incomodando em vez de agradar o jogador.
+Esse é o segundo método a ser utilizado em sua obra. Primeiro vamos utilizar o Ambiente da sua obra. Para utilizar o método do ambiente, você precisar se atentar que o ambiente como um todo, tem que prender a atenção do jogador, mas não ao todo o tempo. Também é importante lembrar do Efeito Repetição, mas o que seria esse tal Efeito de Repetição? O mesmo recebe esse nome pelo simples fato, que em todo jogo alguma coisa sempre vai se repetir, mesmo sendo ela uma coisa boa ou uma coisa ruim. Então é importante que você saiba utilizar esse efeito com maestria, para que os elementos não acabem incomodando em vez de agradar o jogador. E essa "coisa boa/ruim" que vá se repetir, pode ser uma Cena, um Diálogo de extrema importância, um item de raridade alta e entre outros tipos.
 </li>
 <li>
 Método C<br/>
