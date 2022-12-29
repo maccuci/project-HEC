@@ -4,9 +4,9 @@
 
 <p align="center">
  <a href="#hec">Sigla HEC</a> •
- <a href="#whyuse">Por que utilizar</a> • 
- <a href="#understand">Entendo o HEC</a> • 
- <a href="#methods">Métodos</a>
+ <a href="#porqueusar">Por que utilizar</a> • 
+ <a href="#entendendo">Entendo o HEC</a> • 
+ <a href="#metodos">Métodos</a>
 </p>
 
 
@@ -24,7 +24,7 @@ Como ele irá influenciar <b>diretamente</b> na gameplay do usuário, elementos 
 
 ## Mas afinal, por que utilizar o HEC?
 
-<div id="#whyuse">
+<div id="#porqueusar">
 Bom, a utilização do método HEC em seus futuros projetos, poderá te auxiliar na parte criativa, como: Enredo, Ambientação e História principal. Você pode utilizar o HEC
 para as missões secundárias ou acontecimento ao redor do ambiente. Por exemplo criando correlações dos objetos em cena, com acontecimentos <b>presentes</b> e/ou <b>futuros</b> do jogo.
 
@@ -34,7 +34,7 @@ Para um melhor aproveitamento do HEC, utilize sempre as tecnologias que você se
 
 ## Entendendo o HEC
 
-<div id="understand">
+<div id="entendendo">
 Afinal, como o HEC funciona? De uma maneira geral, o seu método possui 3 atributos essenciais para a sua utilização, sendo elas o significado de sua sigla: </br>
  H = History | História<br>
  E = Environment | Ambiente<br>
@@ -45,7 +45,7 @@ Com isso em mente, você poderá ser capaz de pensar calmamente e separadamente 
 </div>
 
 ## Métodos
-<div id="methods">
+<div id="metodos">
 Segue abaixo a lista dos metódos dos quais devem ser seguidos para a levar a prática do uso do método HEC: <br/><br/>
 
 <ol>
