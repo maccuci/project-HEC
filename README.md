@@ -69,8 +69,6 @@ Esse é o terceiro e último método a ser utilizado em sua obra. Primeiro vamos
 <div id="en-us">
     <h1>🇺🇸</h1>
 
-## What is the acronym HEC?
-
-## But, why use HEC?
+## Coming Soon...
 </div>
 
